@@ -19,7 +19,7 @@
 - **Нет адаптивного дизайна**: Сайт не оптимизирован для мобильных устройств.
 
 #### Как протестировать сайт
-Вы можете протестировать сайт, перейдя по следующей ссылке: [Mixlab](https://example.com).
+Вы можете протестировать сайт, перейдя по следующей ссылке: [Mixlab](https://kkonstantin08.github.io/veterinary-clinic-site/).
 
 ---
 
@@ -44,4 +44,4 @@ This project is a website for Mixlab, which offers veterinary medication deliver
 - **No Responsive Design**: The site is not optimized for mobile devices.
 
 #### How to Test the Site
-You can test the site by following this link: [Mixlab](https://example.com).
+You can test the site by following this link: [Mixlab]([https://example.com](https://kkonstantin08.github.io/veterinary-clinic-site/)).
